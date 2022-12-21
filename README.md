@@ -38,31 +38,31 @@
 Cборка в [Jenkins](JenkinUI)
 
 <p align="left">
-  <img width="90%" src="screenshot/Jenkin.png"/>
+  <img width="90%" src="/media/screenshot/Jenkin.png"/>
 </p>
 
 ## Allure Отчет
 [Allure](AlluerUI)
 
 <p align="left">
-  <img width="90%" src="screenshot/Allure.png"/>
+  <img width="90%" src="/media/screenshot/Allure.png"/>
 </p>
 
 ## Отчет в Telegram
 <p align="left">
-  <img width="90%" src="screenshot/AllureTelegram.png"/>
+  <img width="90%" src="/media/screenshot/AllureTelegram.png"/>
 </p>
 
 ## Allure TestOps
 [Allure](AllureTestOpS)
 
 <p align="left">
-  <img width="90%" src="screenshot/AllureTestOps.png"/>
+  <img width="90%" src="/media/screenshot/AllureTestOps.png"/>
 </p>
 
 ## Jira
 [Allure](Jira)
 
 <p align="left">
-  <img width="90%" src="screenshot/Jira.png"/>
+  <img width="90%" src="/media/screenshot/Jira.png"/>
 </p>
