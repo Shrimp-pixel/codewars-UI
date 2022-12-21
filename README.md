@@ -1,6 +1,6 @@
 # Проект по тестированнию UI [codewars.com](https://www.codewars.com/)
 <p align="left">
-  <img width="50%" src="/media/img/reqres.png"/>
+  <img width="50%" src="/media/img/codewars.png"/>
 </p>
 
 ## Содержание:
