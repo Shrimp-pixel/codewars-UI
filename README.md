@@ -38,7 +38,7 @@
 Cборка в [Jenkins](JenkinUI)
 
 <p align="left">
-  <img width="90%" src="/media/screenshot/Jenkin.png"/>
+  <img width="90%" src="/media/screenshot/Jenkins.png"/>
 </p>
 
 ## Allure Отчет
