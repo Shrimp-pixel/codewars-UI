@@ -35,14 +35,14 @@
 </p>
 
 ## Сборка в Jenkins
-Cборка в [Jenkins](JenkinUI)
+Cборка в [Jenkins](https://jenkins.autotests.cloud/job/Shrimp-pixel_codewars-UI/)
 
 <p align="left">
   <img width="90%" src="/media/screenshot/Jenkins.png"/>
 </p>
 
 ## Allure Отчет
-[Allure](AlluerUI)
+[Allure](https://jenkins.autotests.cloud/job/Shrimp-pixel_codewars-UI/allure/)
 
 <p align="left">
   <img width="90%" src="/media/screenshot/Allure.png"/>
@@ -54,14 +54,14 @@ Cборка в [Jenkins](JenkinUI)
 </p>
 
 ## Allure TestOps
-[Allure](AllureTestOpS)
+[Allure](https://allure.autotests.cloud/project/1763/dashboards)
 
 <p align="left">
   <img width="90%" src="/media/screenshot/AllureTestOps.png"/>
 </p>
 
 ## Jira
-[Allure](Jira)
+[Allure](https://jira.autotests.cloud/browse/HOMEWORK-475)
 
 <p align="left">
   <img width="90%" src="/media/screenshot/Jira.png"/>
