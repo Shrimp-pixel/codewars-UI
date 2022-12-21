@@ -1,5 +1,5 @@
 # Проект по тестированнию UI [codewars.com](https://www.codewars.com/)
-<p align="left">
+<p align="center">
   <img width="50%" src="/media/img/codewars.png"/>
 </p>
 
