@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 from selene import Browser, Config
 from dotenv import load_dotenv
 
-from demoqa_tests.utils import attach
+from codewars_tests.utils import attach
 
 DEFAULT_BROWSER_VERSION = "100.0"
 
@@ -37,6 +37,7 @@ def setup_browser(request):
         }
     }
     options.capabilities.update(selenoid_capabilities)
+    options.add_argument('--window-size=1920,1080')
 
     login = os.getenv('LOGIN')
     password = os.getenv('PASSWORD')
